@@ -32,7 +32,7 @@ Este projeto consiste em um estudo de classificação utilizando uma árvore de 
 
 1. **Clone o Repositório**:
    ```bash
-   https://github.com/giulliaVilanova/arvoreDecisao.git
+   git clone https://github.com/giulliaVilanova/arvoreDecisao.git
    cd arvoreDecisao
 2. **Instale as dependências:**
     ```bash
