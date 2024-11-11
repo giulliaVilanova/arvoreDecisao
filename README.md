@@ -32,11 +32,12 @@ Este projeto consiste em um estudo de classificação utilizando uma árvore de 
 
 1. **Clone o Repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   cd seu-repositorio
+   https://github.com/giulliaVilanova/arvoreDecisao.git
+   cd arvoreDecisao
 2. **Instale as dependências:**
     ```bash
    pip install pandas scikit-learn scipy
+
 3. **Gere o Arquivo de Dados:**
 - Execute o script para criar o dataset em .xlsx:
     ```bash
